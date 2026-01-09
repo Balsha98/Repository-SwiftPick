@@ -1,2 +1,3 @@
-# Repository-SwiftPick
-SwiftPick - iOS Clothing Store
+# SwiftPick - iOS Clothing Store Application
+
+The README file will soon be updated.
